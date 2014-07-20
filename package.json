@@ -1,0 +1,27 @@
+{
+	"name": "define-constant",
+	"version": "1.0.0",
+	"description": "define constant in nodejs or window",
+	"author": {
+		"name": "cloudcome",
+		"github": "https://github.com/cloudcome/",
+		"home": "http://ydr.me/"
+	},
+	"main": "index.js",
+	"spm": {
+	    "main": "index.js",
+	    "dependencies": {}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cloudcome/define-constant"
+	},
+	"dependencies": {},
+	"keywords": [
+		"constant",
+		"define",
+		"const"
+	],
+	"licenses": "MIT",
+	"readmeFilename": "readme.md"
+}
